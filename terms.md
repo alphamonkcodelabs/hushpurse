@@ -2,7 +2,7 @@
 
 _Effective October 25, 2026_
 
-These Terms of Use (“Terms”) are an agreement between you and Alphamonk Code Labs (“we”, “us”) about your use of the HushPurse mobile app (the “App”). By installing or using the App, you agree to these Terms. If you do not agree, please do not use the App.
+These Terms of Use (“Terms”) are an agreement between you and amsimplythebest (“we”, “us”) about your use of the HushPurse mobile app (the “App”). By installing or using the App, you agree to these Terms. If you do not agree, please do not use the App.
 
 ## 1. What the App is
 

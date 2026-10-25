@@ -2,7 +2,7 @@
 
 _Effective October 25, 2026_
 
-This Privacy Policy explains how the HushPurse app (the “App”), published by Alphamonk Code Labs (“we”, “us”), handles information. In short: the App stores everything on your device, and we do not collect, receive, sell or share your personal or financial information.
+This Privacy Policy explains how the HushPurse app (the “App”), published by amsimplythebest (“we”, “us”), handles information. In short: the App stores everything on your device, and we do not collect, receive, sell or share your personal or financial information.
 
 ## Information we collect
 
